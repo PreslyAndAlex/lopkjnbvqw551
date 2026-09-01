@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E5C74"/>
+      <stop offset="0.45" stop-color="#083446"/>
+      <stop offset="1" stop-color="#02080D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g font-family="IBM Plex Mono, ui-monospace, monospace" fill="#8FB6C4" font-size="20" letter-spacing="4">
+    <text x="80" y="90">ДАЙВ ЦЕНТЪР · СОЗОПОЛ · ЧЕРНО МОРЕ</text>
+  </g>
+  <text x="80" y="330" font-family="IBM Plex Sans, sans-serif" font-size="150" font-weight="600" fill="#EAF4F7" letter-spacing="-4">Дълбина</text>
+  <text x="80" y="400" font-family="IBM Plex Sans, sans-serif" font-size="34" fill="#9FC2CE">Спускане от 0 до 50 метра.</text>
+  <g font-family="IBM Plex Mono, ui-monospace, monospace" font-size="22" letter-spacing="2">
+    <text x="80" y="530" fill="#3A2A28">05 м · червено</text>
+    <text x="320" y="530" fill="#2C3A34">20 м · жълто</text>
+    <text x="560" y="530" fill="#2E4A50">30 м · зелено</text>
+    <text x="800" y="530" fill="#35C6F4">50 м · синьо</text>
+  </g>
+</svg>
