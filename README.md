@@ -1,4 +1,4 @@
-# Dulbina-Dive
+# Dulbina-Dive-Example
 
 A portfolio demo by **A&P Digital**. *Дълбина* ("Depth") is a **fictional** Black
 Sea dive centre. Nothing is sold, no order is ever placed, and no data leaves the
